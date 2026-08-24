@@ -1,0 +1,15 @@
+dataTypes:
+- label: XML
+  url: https://dtr-test.pidconsortium.net/#objects/21.T11148/edff7f2829db22e260a3
+description: PMML uses XML to represent mining models. The structure of the models
+  is described by an XML Schema. One or more mining models can be contained in a PMML
+  document.
+identifiers:
+- id: msc:m115
+  scheme: RDA-MSCWG
+keywords:
+- Artificial intelligence
+locations:
+- type: website
+  url: https://dmg.org/pmml/v4-1/GeneralStructure.html
+title: Predictive Model Markup Language (PMML)

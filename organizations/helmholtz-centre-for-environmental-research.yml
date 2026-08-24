@@ -1,0 +1,11 @@
+description: The research institution conducts research to support a sustainable use
+  of our natural resources to benefit both mankind and the environment.
+identifiers:
+- id: msc:g128
+  scheme: RDA-MSCWG
+- id: 000h6jb29
+  scheme: ROR
+locations:
+- type: website
+  url: https://www.ufz.de
+name: Helmholtz Centre for Environmental Research

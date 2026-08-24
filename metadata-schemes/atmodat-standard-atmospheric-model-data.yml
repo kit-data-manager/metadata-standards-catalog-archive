@@ -1,0 +1,14 @@
+description: 'The ATMODAT (Atmospheric Model Data) Standard is a quality guideline
+  that seeks to improve the FAIRness of atmospheric model data published with a DataCite
+  DOI in repositories. It includes concrete recommendations related to the maturity,
+  publication and enhanced FAIRness of this data. The suggestions include requirements
+  for rich metadata with controlled vocabularies, structured landing pages, file formats
+  (netCDF), open licences  and the structure within files. '
+identifiers:
+- id: msc:m105
+  scheme: RDA-MSCWG
+keywords:
+- Meteorological data
+- Meteorology
+- Simulation models
+title: ATMODAT Standard (Atmospheric Model Data)

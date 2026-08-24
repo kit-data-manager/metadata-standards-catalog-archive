@@ -1,0 +1,18 @@
+description: Free software suite enabling own digital library or document repositories
+  build on top of Invenio.
+identifiers:
+- id: msc:t79
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://zenodo.org/
+relatedEntities:
+- id: msc:g112
+  role: funder
+- id: msc:g140
+  role: maintainer
+- id: msc:g140
+  role: funder
+title: Zenodo
+types:
+- web service

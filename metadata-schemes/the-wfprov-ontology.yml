@@ -1,0 +1,12 @@
+dataTypes:
+- label: RDF+XML
+description: The wfprov ontology describes the provenance of the workflow results.
+identifiers:
+- id: msc:m118
+  scheme: RDA-MSCWG
+keywords:
+- Multidisciplinary
+locations:
+- type: website
+  url: https://wf4ever.github.io/ro/2016-01-28/wfprov/
+title: The Wfprov Ontology

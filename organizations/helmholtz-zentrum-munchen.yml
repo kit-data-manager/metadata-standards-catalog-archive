@@ -1,0 +1,15 @@
+description: Helmholtz Zentrum München is the German Research Center for Environmental
+  Health. It investigates important common diseases which develop from the interaction
+  of lifestyle, environmental factors and personal genetic background, focusing particularly
+  on diabetes mellitus, allergies and chronic lung diseases. Helmholtz Zentrum München
+  is a research institution of the Federal Republic of Germany and the Free State
+  of Bavaria. It is a member of the Helmholtz Association of German Research Centers.
+identifiers:
+- id: msc:g129
+  scheme: RDA-MSCWG
+- id: 00cfam450
+  scheme: ROR
+locations:
+- type: website
+  url: https://www.helmholtz-munich.de/helmholtz-zentrum-muenchen/index.html
+name: Helmholtz Zentrum München

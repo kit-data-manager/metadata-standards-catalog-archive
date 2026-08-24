@@ -1,0 +1,15 @@
+creators:
+- familyName: Brunnbauer
+  givenName: Michael
+description: A tool to extract RDF metadata out of DICOM files.
+identifiers:
+- id: msc:t81
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://github.com/Bonubase/dicom2rdf
+title: dicom2rdf
+types:
+- terminal (Windows)
+- terminal (Mac OS X)
+- terminal (Linux)

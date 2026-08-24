@@ -1,0 +1,16 @@
+description: <p>Schema for testing integration of HMC research fields as subject areas</p>
+identifiers:
+- id: msc:m100
+  scheme: RDA-MSCWG
+keywords:
+- HMC_Energy
+- HMC_Information
+- Information exchange
+- Multidisciplinary
+locations:
+- type: website
+  url: https://helmholtz-metadaten.de/de
+title: TestSchema
+versions:
+- issued: '2021-01-19'
+  number: '1'

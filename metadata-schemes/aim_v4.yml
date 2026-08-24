@@ -1,0 +1,13 @@
+dataTypes:
+- label: XML
+description: Used for modeling, capturing, and serializing image annotation and markup
+  data that can be adopted as a standard by the medical imaging community.
+identifiers:
+- id: msc:m130
+  scheme: RDA-MSCWG
+keywords:
+- Medical research
+locations:
+- type: XSD
+  url: https://github.com/NCIP/annotation-and-image-markup/blob/master/XML_schemas/AIM_v4/AIM_v4_rv44_XML.xsd
+title: AIM_v4

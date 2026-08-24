@@ -1,0 +1,15 @@
+description: Coscine is an integration platform for research data. It simplifies metadata
+  management, project member management, and allows to conveniently archive research
+  data.
+identifiers:
+- id: msc:t73
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://coscine.pages.rwth-aachen.de/docs/public/pages/en/
+relatedEntities:
+- id: msc:g131
+  role: maintainer
+title: Coscine
+types:
+- web service

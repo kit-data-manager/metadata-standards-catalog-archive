@@ -1,0 +1,15 @@
+description: The IEC is a global, not-for-profit membership organization that brings
+  together more than 170 countries and coordinates the work of 20 000 experts globally.
+  The mission is to achieve worldwide use of IEC International Standards and Conformity
+  Assessment systems to ensure the safety, efficiency, reliability and interoperability
+  of electrical, electronic and information technologies, to enhance international
+  trade, facilitate broad electricity access and enable a more sustainable world.
+identifiers:
+- id: msc:g122
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.iec.ch
+name: IEC - International Electrotechnical Commission
+types:
+- standards body

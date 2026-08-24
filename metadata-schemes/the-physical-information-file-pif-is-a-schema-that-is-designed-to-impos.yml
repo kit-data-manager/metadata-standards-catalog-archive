@@ -1,0 +1,24 @@
+dataTypes:
+- label: JSON
+description: The Physical Information File (PIF) is a schema that is designed to impose
+  structure on information about physical systems. Schema design, as well as tools
+  for working with PIF-formatted files using the python (pypif) and java (jpif) programming
+  languages are maintained by Citrine Informatics
+identifiers:
+- id: msc:m109
+  scheme: RDA-MSCWG
+keywords:
+- Chemical properties
+- Chemical sciences
+- Physical sciences
+locations:
+- type: website
+  url: https://citrineinformatics.github.io/pif-documentation/schema_definition/index.html
+relatedEntities:
+- id: msc:g123
+  role: maintainer
+- id: msc:g123
+  role: funder
+- id: msc:g123
+  role: user
+title: PIF (Physical Information File)

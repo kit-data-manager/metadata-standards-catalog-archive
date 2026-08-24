@@ -1,0 +1,21 @@
+description: "General purpose metadata repository and schema registry service.\r\n\
+  \r\nIt allows you to register an (XML/JSON) schema, update an (XML/JSON) schema,\
+  \ add metadata linked with a registered schema, validate metadata against a registered\
+  \ schema, and update added metadata."
+identifiers:
+- id: msc:t66
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://github.com/kit-data-manager/metastore2
+- type: website
+  url: https://hub.docker.com/r/kitdm/metastore2/tags
+relatedEntities:
+- id: msc:g124
+  role: maintainer
+title: MetaStore
+types:
+- web service
+versions:
+- issued: '2022-01-11'
+  number: 0.3.7

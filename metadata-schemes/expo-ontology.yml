@@ -1,0 +1,14 @@
+dataTypes:
+- label: OWL-DL
+description: EXPO links the SUMO (the Suggested Upper Merged Ontology) with subject-specific
+  ontologies of experiments by formalizing the generic concepts of experimental design,
+  methodology and results representation.
+identifiers:
+- id: msc:m125
+  scheme: RDA-MSCWG
+keywords:
+- Multidisciplinary
+locations:
+- type: document
+  url: https://www.researchgate.net/profile/Larisa-Soldatova/publication/6780382_An_Ontology_of_Scientific_Experiments/links/0deec520b798cca1d5000000/An-Ontology-of-Scientific-Experiments.pdf?_sg%5B0%5D=WUffwbmpTfqNZ7xmPhJubvz_GsvNZbjev3_EkCHsv2mwkGPE0KLS52GUBlk0VIodSIL8UOrpW8R3JOX3bwnyqA.4Him1F-unb7MaPGomW9yrdVNZJwXMLHrOZNxUVw00QkeQlHbNYsZTSZ29tgmnq6FP8b6pZCUzMqq-gmqSuzUWQ&_sg%5B1%5D=MMHQAxYbpQgY9btkMAvLyM2jmOcRa5Mwd0MqGYqK0FnM1xIgPmKuW6Pxu8omAxm4W8khIw5cNlyFLiYG9uyJVEAN7Vtz8W9y3dE_aVr2q7sT.4Him1F-unb7MaPGomW9yrdVNZJwXMLHrOZNxUVw00QkeQlHbNYsZTSZ29tgmnq6FP8b6pZCUzMqq-gmqSuzUWQ&_iepl=
+title: EXPO Ontology

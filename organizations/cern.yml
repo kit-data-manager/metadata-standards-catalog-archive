@@ -1,0 +1,10 @@
+description: At CERN, our work helps to uncover what the universe is made of and how
+  it works. We do this by providing a unique range of particle accelerator facilities
+  to researchers, to advance the boundaries of human knowledge.
+identifiers:
+- id: msc:g140
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://home.cern
+name: CERN

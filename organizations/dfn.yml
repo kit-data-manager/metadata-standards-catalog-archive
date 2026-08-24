@@ -1,0 +1,12 @@
+description: 'Science itself organized the German National Research and Education
+  Network, DFN, the communications network for Science and research in Germany. It
+  connects universities and research institutions with one another and has become
+  an integral part of  the European and worldwide community of research and education
+  networks. '
+identifiers:
+- id: msc:g138
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.dfn.de/en/
+name: DFN

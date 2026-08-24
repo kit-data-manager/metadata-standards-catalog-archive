@@ -1,0 +1,13 @@
+description: The Centre for Environmental Data Analysis (CEDA) serves the environmental
+  science community through provision of CEDA Archive - a long term data archive,
+  JASMIN - a data intensive supercomputer, and participation in a host of relevant
+  research projects
+identifiers:
+- id: msc:g125
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.ceda.ac.uk
+name: Centre for Environmental Data Analysis (CEDA)
+types:
+- professional group

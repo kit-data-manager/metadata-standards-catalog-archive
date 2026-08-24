@@ -1,0 +1,9 @@
+description: CNRI is a not-for-profit organization formed in 1986 to undertake, foster,
+  and promote research on information infrastructure in the public interest.
+identifiers:
+- id: msc:g133
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.cnri.reston.va.us/
+name: CNRI - Corporation for National Research Initiatives

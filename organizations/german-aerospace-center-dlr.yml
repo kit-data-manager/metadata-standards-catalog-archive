@@ -1,0 +1,20 @@
+description: 'The German Aerospace Center (German: Deutsches Zentrum für Luft- und
+  Raumfahrt e.V., abbreviated DLR), is the national center for aerospace, energy and
+  transportation research of Germany. It is engaged in a wide range of research and
+  development projects in national and international partnerships. In addition to
+  conducting its own research projects, DLR also acts as the German space agency.
+  As such, it is responsible for planning and implementing the German space programme
+  on behalf of the German federal government. As a project management agency, DLR
+  also coordinates and answers the technical and organizational implementation of
+  projects funded by a number of German federal ministries.'
+identifiers:
+- id: msc:g130
+  scheme: RDA-MSCWG
+- id: 04bwf3e34
+  scheme: ROR
+- id: '501100002946'
+  scheme: Crossref Funder ID
+locations:
+- type: website
+  url: https://www.dlr.de/EN/Home/home_node.html
+name: German Aerospace Center (DLR)

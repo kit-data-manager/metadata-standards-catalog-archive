@@ -1,0 +1,15 @@
+description: Fedora is the flexible, modular, open source repository platform with
+  native linked data support.
+identifiers:
+- id: msc:t75
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://duraspace.org/fedora/
+relatedEntities:
+- id: msc:g134
+  role: maintainer
+title: Fedora
+versions:
+- issued: '2021-11-22'
+  number: 6.1.1

@@ -1,0 +1,15 @@
+dataTypes:
+- label: RDF+XML
+description: The Open Provenance Model for Workflows (OPMW) is an ontology for describing
+  workflow traces and their templates based on the Open Provenance Model. It has been
+  designed as a profile for OPM, extending and reusing OPM's core ontologies OPMV
+  (OPM-Vocabulary) and OPMO (OPM-Ontology).
+identifiers:
+- id: msc:m119
+  scheme: RDA-MSCWG
+keywords:
+- Multidisciplinary
+locations:
+- type: website
+  url: https://www.opmw.org/model/OPMW/
+title: The OPMW-PROV Ontology

@@ -1,0 +1,9 @@
+description: "An ontology to represent the knowledge around the Machine\r\nLearning\
+  \ discipline."
+identifiers:
+- id: msc:m122
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: https://osf.io/preprints/frenxiv/rc954/download
+title: MLOnto

@@ -1,0 +1,19 @@
+description: <p>ABCDDNA is a theme specific extension for ABCD (Access to Biological
+  Collections Data) created to facilitate storage and exchange of data related to
+  DNA collection units, such as DNA extraction specifics, DNA quality parameters,
+  and data characterising products of downstream applications, along with the relation
+  to the analysed voucher specimen. ABCDDNA is an XML Schema extension to ABCD 2.06,
+  which offers only a rudimentary set of DNA-specific data ("Sequences").</p>
+identifiers:
+- id: msc:m42
+  scheme: RDA-MSCWG
+keywords:
+- Genetics
+- HMC_Health
+locations:
+- type: website
+  url: http://www.tdwg.org/standards/640/
+relatedEntities:
+- id: msc:m1
+  role: parent scheme
+title: ABCDDNA

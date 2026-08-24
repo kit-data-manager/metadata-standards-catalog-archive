@@ -1,0 +1,16 @@
+description: Highly configurable software for managing digital objects at scale.
+identifiers:
+- id: msc:t72
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.cordra.org/
+relatedEntities:
+- id: msc:g133
+  role: maintainer
+title: CORDRA
+types:
+- web service
+versions:
+- issued: '2021-12-15'
+  number: 2.3.2

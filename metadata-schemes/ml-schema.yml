@@ -1,0 +1,15 @@
+dataTypes:
+- label: RDF+XML
+  url: https://dtr-test.pidconsortium.net/#objects/21.T11148/edff7f2829db22e260a3
+description: ML-Schema is a top-level ontology that provides a set of classes, properties,
+  and restrictions for representing and interchanging information on machine learning
+  algorithms, datasets, and experiments.
+identifiers:
+- id: msc:m114
+  scheme: RDA-MSCWG
+keywords:
+- Artificial intelligence
+locations:
+- type: website
+  url: http://ml-schema.github.io/documentation/ML%20Schema.html
+title: ML-Schema

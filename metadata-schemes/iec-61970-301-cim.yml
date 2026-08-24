@@ -1,0 +1,30 @@
+description: <p>IEC 61970-301 lays down the common information model (CIM), which
+  is an abstract model that represents all the major objects in an electric utility
+  enterprise typically involved in utility operations. By providing a standard way
+  of representing power system resources as object classes and attributes, along with
+  their relationships, the CIM facilitates the integration of network applications
+  developed independently by different vendors, between entire systems running network
+  applications developed independently, or between a system running network applications
+  and other systems concerned with different aspects of power system operations, such
+  as generation or distribution management. SCADA is modeled to the extent necessary
+  to support power system simulation and inter-control centre communication. The CIM
+  facilitates integration by defining a common language (i.e. semantics) based on
+  the CIM to enable these applications or systems to access public data and exchange
+  information independent of how such information is represented internally.</p>
+identifiers:
+- id: msc:m103
+  scheme: RDA-MSCWG
+keywords:
+- HMC_Energy
+locations:
+- type: website
+  url: https://webstore.iec.ch/publication/62698
+relatedEntities:
+- id: msc:g122
+  role: maintainer
+- id: msc:m102
+  role: parent scheme
+title: IEC 61970-301 (CIM)
+versions:
+- issued: '2020-06-26'
+  number: '7.0'

@@ -1,0 +1,13 @@
+description: 'This document describes attributes recommended for describing a NetCDF
+  dataset to discovery systems such as Digital Libraries. '
+identifiers:
+- id: msc:m111
+  scheme: RDA-MSCWG
+keywords:
+- Climate
+- Data collection
+- Digital libraries
+locations:
+- type: website
+  url: https://wiki.esipfed.org/Attribute_Convention_for_Data_Discovery_1-3
+title: Attribute Convention for Data Discovery

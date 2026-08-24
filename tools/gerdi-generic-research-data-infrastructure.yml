@@ -1,0 +1,22 @@
+description: The GeRDI project deals with the development of a Generic Research Data
+  Infrastructure (GeRDI). The aim is to enable all scientists in Germany, especially
+  those who hold only small amounts of data, to store, share and re-use research data
+  across disciplines.
+identifiers:
+- id: msc:t76
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.gerdi-project.eu/
+relatedEntities:
+- id: msc:g135
+  role: maintainer
+- id: msc:g136
+  role: maintainer
+- id: msc:g137
+  role: maintainer
+- id: msc:g138
+  role: maintainer
+- id: msc:g139
+  role: maintainer
+title: GeRDI - Generic Research Data Infrastructure

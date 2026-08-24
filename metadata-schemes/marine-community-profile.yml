@@ -1,0 +1,21 @@
+description: <p>A profile developed in accordance with ISO 19115 rules by the Australian
+  Ocean Data Centre that supports the documentation and discovery of marine spatial
+  datasets.</p>
+identifiers:
+- id: msc:m71
+  scheme: RDA-MSCWG
+keywords:
+- Climatology
+- Earth sciences
+- Glaciology
+- HMC_EarthAndEnvironment
+- Hydrology
+- Meteorology
+- Oceanography
+locations:
+- type: website
+  url: http://www.aodc.org.au/index.php?id=37
+relatedEntities:
+- id: msc:m22
+  role: parent scheme
+title: Marine Community Profile

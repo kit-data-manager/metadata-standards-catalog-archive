@@ -1,0 +1,20 @@
+description: AIM is for adding information and knowledge to an image in a clinical
+  environment. The solution is made up of various components, including the AIM Model,
+  AIM Template Manager, and AIM Data Service. The AIM Model captures the descriptive
+  information for an image, with user-generated graphical symbols placed on the image
+  into a single common information source. The AIM Template Manager allows the user
+  to generate a set of well-defined questions and answer choices to facilitate collecting
+  the annotations and markup of an image in a XML document. The AIM Data Service then
+  stores the XML documents in a database via caGrid.
+identifiers:
+- id: msc:t85
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://wiki.nci.nih.gov/pages/viewpage.action?pageId=80151928&navigatingVersions=true
+relatedEntities:
+- id: msc:m130
+  role: supported scheme
+title: Annotation and Image Markup (AIM)
+types:
+- web application

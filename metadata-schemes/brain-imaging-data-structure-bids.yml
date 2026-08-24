@@ -1,0 +1,16 @@
+dataTypes:
+- label: JSON
+description: Is a standard for organizing and describing MRI datasets. The BIDS standard
+  uses file formats compatible with existing software, unifies the majority of practices
+  already common in the field, and captures the metadata necessary for most common
+  data processing operations.
+identifiers:
+- id: msc:m131
+  scheme: RDA-MSCWG
+keywords:
+- Clinical medicine
+- Health
+locations:
+- type: website
+  url: https://www.nature.com/articles/sdata201644
+title: ' Brain Imaging Data Structure (BIDS)'

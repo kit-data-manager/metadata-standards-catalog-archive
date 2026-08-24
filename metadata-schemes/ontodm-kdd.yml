@@ -1,0 +1,19 @@
+dataTypes:
+- label: RDF+XML
+- label: OWL
+- label: CSV
+description: An ontology for representing the knowledge discovery (KD) process. OntoDM-KDD
+  defines the most essential entities for describing data mining investigations in
+  the context of KD in a two-layered ontological structure.
+identifiers:
+- id: msc:m123
+  scheme: RDA-MSCWG
+keywords:
+- Mining
+- Multidisciplinary
+locations:
+- type: website
+  url: https://bioportal.bioontology.org/ontologies/ONTODM-KDD/?p=summary
+- type: document
+  url: https://www.researchgate.net/profile/Pance-Panov/publication/278665140_OntoDM-KDD_Ontology_for_Representing_the_Knowledge_Discovery_Process/links/561ac36508ae044edbb20de4/OntoDM-KDD-Ontology-for-Representing-the-Knowledge-Discovery-Process.pdf?_sg%5B0%5D=35653OwVP85zSVNEPa_ECBS7qGgUKrxQOS_sTnRynKhhhMXPWAQE-zZ9WK3CAZadwwAtdZahD3BRnagA80GcwA.Keukolm-jDfbyWfVzrPLX67nfYPC4Y5it2P9t_g9AZwcxSlHRPz_Oi9uI3T0pG7JszJZU7z-VHZGuNuWR3W6eQ&_sg%5B1%5D=Ui60L2v3xbsqgaTvEJOmGjs2YWj_40vpqVW2BfN0nsDkEBTzxo_jVn52hlA-AeGN9Rjs4iooJ2o7XEyjdgprmfFmQgduzCcRO6-VrVSakGh6.Keukolm-jDfbyWfVzrPLX67nfYPC4Y5it2P9t_g9AZwcxSlHRPz_Oi9uI3T0pG7JszJZU7z-VHZGuNuWR3W6eQ&_iepl=
+title: OntoDM-KDD

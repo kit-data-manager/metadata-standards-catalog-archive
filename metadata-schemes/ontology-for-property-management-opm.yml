@@ -1,0 +1,13 @@
+dataTypes:
+- label: RDF+XML
+description: The Ontology for Property Management (OPM) is an ontology for describing
+  temporal properties that are subject to changes as the building design evolves.
+identifiers:
+- id: msc:m120
+  scheme: RDA-MSCWG
+keywords:
+- Multidisciplinary
+locations:
+- type: website
+  url: https://w3c-lbd-cg.github.io/opm/
+title: Ontology for Property Management (OPM)

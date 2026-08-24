@@ -1,0 +1,16 @@
+description: InvenioRDM - a repository/document management platform.
+identifiers:
+- id: msc:t77
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://invenio-software.org/
+relatedEntities:
+- id: msc:g140
+  role: maintainer
+title: Invenio RDM
+types:
+- web service
+versions:
+- issued: '2019-12-20'
+  number: 3.2.0

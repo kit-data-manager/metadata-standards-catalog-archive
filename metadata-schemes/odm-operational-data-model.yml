@@ -1,0 +1,21 @@
+description: 'ODM-XML is a data exchange standard, vendor-neutral, platform-independent
+  suited for exchanging and archiving clinical and translational research data, along
+  with their associated metadata, administrative data, reference data, and audit information.
+  ODM-XML facilitates the regulatory-compliant acquisition, archival and exchange
+  of metadata and data. '
+identifiers:
+- id: msc:m113
+  scheme: RDA-MSCWG
+keywords:
+- Clinical medicine
+- Health
+locations:
+- type: website
+  url: https://www.cdisc.org/standards/data-exchange/odm
+relatedEntities:
+- id: msc:g127
+  role: maintainer
+title: ODM (Operational Data Model)
+versions:
+- issued: '2013-12-01'
+  number: 1.3.2

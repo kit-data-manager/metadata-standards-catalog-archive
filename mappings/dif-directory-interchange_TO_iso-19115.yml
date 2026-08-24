@@ -1,0 +1,12 @@
+description: <p>This document provides a detailed mapping from DIF to ISO 19115.</p>
+identifiers:
+- id: msc:c10
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: http://gcmd.nasa.gov/add/standards/difiso.html
+relatedEntities:
+- id: msc:m14
+  role: input scheme
+- id: msc:m22
+  role: output scheme

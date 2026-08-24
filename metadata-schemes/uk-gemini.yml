@@ -1,0 +1,18 @@
+description: <p>A specification for a set of metadata elements describing geospatial
+  data resources for discovery purposes, based on ISO 19115.</p>
+identifiers:
+- id: msc:m80
+  scheme: RDA-MSCWG
+keywords:
+- Cartography
+- Geography
+- HMC_AST
+- HMC_EarthAndEnvironment
+- Topography
+locations:
+- type: website
+  url: http://www.agi.org.uk/uk-gemini/
+relatedEntities:
+- id: msc:m22
+  role: parent scheme
+title: UK Gemini

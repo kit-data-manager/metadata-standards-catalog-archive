@@ -1,0 +1,15 @@
+dataTypes:
+- label: fbs
+  url: https://github.com/tensorflow/tflite-support/blob/master/tensorflow_lite_support/metadata/metadata_schema.fbs
+- label: JSON
+description: 'Content about best practice for model handling of machine-learning tasks. '
+identifiers:
+- id: msc:m107
+  scheme: RDA-MSCWG
+keywords:
+- Artificial intelligence
+- Microcomputers
+locations:
+- type: website
+  url: https://www.tensorflow.org/lite/convert/metadata
+title: TensorFlow Lite

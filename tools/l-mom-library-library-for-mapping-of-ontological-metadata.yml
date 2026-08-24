@@ -1,0 +1,11 @@
+description: Is a tool for making an automatic mapping between instances of DICOM
+  medical files and different medical ontologies.
+identifiers:
+- id: msc:t84
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://pubmed.ncbi.nlm.nih.gov/26736812/
+title: L-MOM library (Library for Mapping of Ontological Metadata)
+types:
+- web application

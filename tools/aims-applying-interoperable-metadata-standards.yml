@@ -1,0 +1,18 @@
+description: An appropriate metadata management should enable researchers to select
+  the right data set for their own research from a multitude of already existing digital
+  data sets. In accordance with the FAIR principles, metadata must be interpretable
+  for humans and machines.
+identifiers:
+- id: msc:t71
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.aims-projekt.de/
+relatedEntities:
+- id: msc:g131
+  role: maintainer
+- id: msc:g132
+  role: maintainer
+title: AIMS - Applying Interoperable Metadata Standards
+types:
+- web service

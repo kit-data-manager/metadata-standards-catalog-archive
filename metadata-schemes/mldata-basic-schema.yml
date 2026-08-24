@@ -1,0 +1,14 @@
+dataTypes:
+- label: JSON
+description: Contains information about a set of scientific training data for applying
+  it to machine-learning. This schema servers as a basic for structuring this information
+  and can be extended.
+identifiers:
+- id: msc:m128
+  scheme: RDA-MSCWG
+keywords:
+- Artificial intelligence
+locations:
+- type: website
+  url: https://github.com/nicolasblumenroehr/ML-Basic-Schema/blob/main/MLdata-Basic-Schema.json
+title: MLdata-Basic-Schema

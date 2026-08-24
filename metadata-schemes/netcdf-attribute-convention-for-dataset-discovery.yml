@@ -1,0 +1,6 @@
+identifiers:
+- id: msc:m89
+  scheme: RDA-MSCWG
+keywords:
+- HMC_EarthAndEnvironment
+title: NetCDF Attribute Convention for Dataset Discovery

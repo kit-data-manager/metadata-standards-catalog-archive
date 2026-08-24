@@ -1,0 +1,14 @@
+dataTypes:
+- label: OWL
+description: The Data Mining OPtimization Ontology (DMOP) has been developed to support
+  informed decision-making at various choice points of the data mining process.
+identifiers:
+- id: msc:m124
+  scheme: RDA-MSCWG
+keywords:
+- Mining
+- Multidisciplinary
+locations:
+- type: document
+  url: https://www.sciencedirect.com/science/article/abs/pii/S1570826815000025
+title: DMOP Ontology

@@ -1,0 +1,22 @@
+description: It enables Oracle Database to store, manage, and retrieve DICOM content
+  such as single-frame and multiframe images, waveforms, slices of 3-D volumes, video
+  segments, and structured reports. Oracle Multimedia provides support for extracting
+  the most important metadata as DICOM attribute tags into an XML document, and then
+  indexing and searching these tags to find DICOM content that matched certain conditions.
+  Oracle Multimedia also supports complete and extensible metadata extraction. Customers
+  can extract metadata according to an Oracle-specified XML schema, or create and
+  use their own schema definition to extract subsets of the standard DICOM attribute
+  tags or private tags. The extracted metadata can then be stored in a table to facilitate
+  DICOM content searching based on standard or private DICOM attributes.
+identifiers:
+- id: msc:t86
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://ora14.informatik.haw-hamburg.de/imdcm/oracle-multimedia-dicom-concepts.html#GUID-0CB7ADED-8CDA-4821-BD5C-BE8B677F56E3
+relatedEntities:
+- id: msc:g145
+  role: maintainer
+- id: msc:m132
+  role: supported scheme
+title: 'Oracle Multimedia DICOM '

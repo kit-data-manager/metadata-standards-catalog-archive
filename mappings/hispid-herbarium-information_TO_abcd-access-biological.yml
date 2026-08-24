@@ -1,0 +1,19 @@
+creators:
+- familyName: Berendsohn
+  givenName: Walter
+description: <p>This document describes how to convert a HISPID3 metatadata file into
+  an ABCD 1.49d XML file.</p>
+identifiers:
+- id: msc:c18
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: http://www.bgbm.org/tdwg/codata/Schema/Mappings/HISPID3.htm
+relatedEntities:
+- id: msc:m1
+  role: output scheme
+- id: msc:m64
+  role: input scheme
+versions:
+- issued: '2005-03-06'
+  number: '2005-03-06'

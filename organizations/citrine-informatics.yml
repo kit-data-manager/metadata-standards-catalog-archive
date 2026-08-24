@@ -1,0 +1,16 @@
+description: 'Citrine Informatics is the award-winning materials informatics platform
+  for data-driven materials and chemicals development. It won the 2017 World Materials
+  Forum Start-up Challenge, the 2018 AI Breakthrough award as the "Best AI-based Solution
+  for Manufacturing," and 2020-2021 Cleantech 100 honors. The Citrine Platform combines
+  smart materials data infrastructure and AI, which accelerates development of cutting-edge
+  materials, facilitates product portfolio optimization, and codifies research IP,
+  enabling its reuse and preventing its loss. Citrine''s customers include Panasonic,
+  Michelin, LANXESS, and some of the biggest and most respected names in the materials
+  and chemicals industry in Asia, North America, and Europe. '
+identifiers:
+- id: msc:g123
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://citrine.io
+name: Citrine Informatics

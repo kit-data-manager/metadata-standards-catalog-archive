@@ -1,0 +1,18 @@
+description: The CF Checker is a utility that checks the contents of a NetCDF file
+  complies with the Climate and Forecasts (CF) Metadata Convention
+identifiers:
+- id: msc:t69
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://github.com/cedadev/cf-checker
+relatedEntities:
+- id: msc:g125
+  role: maintainer
+- id: msc:g125
+  role: funder
+- id: msc:m5
+  role: supported scheme
+title: cf-checker
+types:
+- terminal (cross-platform)

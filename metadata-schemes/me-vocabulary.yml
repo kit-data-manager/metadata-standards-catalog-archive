@@ -1,0 +1,12 @@
+description: A Light-Weight Interchange Format for Machine Learning Experiments. MEX
+  provides a prompt method to describe experiments with a special focus on data provenance
+  and fulfills the requirements for a long-term maintenance.
+identifiers:
+- id: msc:m127
+  scheme: RDA-MSCWG
+keywords:
+- Artificial intelligence
+locations:
+- type: document
+  url: https://www.researchgate.net/profile/Diego-Esteves/publication/283422326_MEX_Vocabulary_A_Lightweight_Interchange_Format_for_Machine_Learning_Experiments/links/568eb90808aef987e567d663/MEX-Vocabulary-A-Lightweight-Interchange-Format-for-Machine-Learning-Experiments.pdf?_sg%5B0%5D=Y41RiK9wSQ_acvRkxs-kdps22g1uTYVleGKgb5SckEjDcA8DnqymlHsPDf8iYO7mnCxFoJFPyIoB7sfxI5rRzg.Q0EPzHkUeQNyutLD4WQZnizgQsmUUwbxQm4jW3ExSsWLNXlVHdneSPb2vau_c8syHrpKnOgIHb3PRpFXB4K-iw&_sg%5B1%5D=vz7eQSC_ksEUYR-IqZ13QDip-QcafpkaswF7ZiE-BuHm4gDXBuzKVHO33eIpJhIP83tjCgxse3zlW9qYOpWt1tzSyc1Yj6LE35NHrnkghuSU.Q0EPzHkUeQNyutLD4WQZnizgQsmUUwbxQm4jW3ExSsWLNXlVHdneSPb2vau_c8syHrpKnOgIHb3PRpFXB4K-iw&_iepl=
+title: ME Vocabulary

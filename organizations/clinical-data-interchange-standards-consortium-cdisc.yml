@@ -1,0 +1,13 @@
+description: The Clinical Data Interchange Standards Consortium (CDISC) is a standards
+  developing organization (SDO) dealing with medical research data linked with healthcare,
+  to "enable information system interoperability to improve medical research and related
+  areas of healthcare".
+identifiers:
+- id: msc:g127
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.cdisc.org/
+name: Clinical Data Interchange Standards Consortium (CDISC)
+types:
+- standards body

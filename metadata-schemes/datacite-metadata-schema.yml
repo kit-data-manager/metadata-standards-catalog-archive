@@ -1,0 +1,84 @@
+description: <p>A set of mandatory metadata that must be registered with the DataCite
+  Metadata Store when minting a DOI persistent identifier for a dataset. The domain-agnostic
+  properties were chosen for their ability to aid in accurate and consistent identification
+  of data for citation and retrieval purposes.</p><p>Sponsored by the DataCite consortium,
+  version 3.0 was recently released in 2013.</p>
+identifiers:
+- id: msc:m11
+  scheme: RDA-MSCWG
+keywords:
+- Multidisciplinary
+locations:
+- type: website
+  url: http://schema.datacite.org
+relatedEntities:
+- id: msc:g18
+  role: user
+- id: msc:g37
+  role: user
+- id: msc:g64
+  role: user
+- id: msc:g112
+  role: user
+title: DataCite Metadata Schema
+versions:
+- identifiers:
+  - id: 10.5438/0003
+    scheme: DOI
+  - id: 10.5438/0004
+    scheme: DOI
+  issued: '2011-03-28'
+  locations:
+  - type: document
+    url: http://schema.datacite.org/meta/kernel-2.1/doc/DataCite-MetadataKernel_v2.2.pdf
+  - type: XSD
+    url: http://schema.datacite.org/meta/kernel-2.1/metadata.xsd
+  number: '2.1'
+- identifiers:
+  - id: 10.5438/0005
+    scheme: DOI
+  - id: 10.5438/0006
+    scheme: DOI
+  issued: '2011-07-01'
+  locations:
+  - type: document
+    url: http://schema.datacite.org/meta/kernel-2.2/doc/DataCite-MetadataKernel_v2.2.pdf
+  - type: XSD
+    url: http://schema.datacite.org/meta/kernel-2.2/metadata.xsd
+  number: '2.2'
+- identifiers:
+  - id: 10.5438/0008
+    scheme: DOI
+  - id: 10.5438/0009
+    scheme: DOI
+  issued: '2013-07-24'
+  locations:
+  - type: document
+    url: http://schema.datacite.org/meta/kernel-3.0/doc/DataCite-MetadataKernel_v3.0.pdf
+  - type: XSD
+    url: http://schema.datacite.org/meta/kernel-3.0/metadata.xsd
+  number: '3.0'
+- identifiers:
+  - id: 10.5438/0010
+    scheme: DOI
+  - id: 10.5438/0011
+    scheme: DOI
+  issued: '2014-10-16'
+  locations:
+  - type: document
+    url: http://schema.datacite.org/meta/kernel-3.1/doc/DataCite-MetadataKernel_v3.1.pdf
+  - type: XSD
+    url: http://schema.datacite.org/meta/kernel-3.1/metadata.xsd
+  number: '3.1'
+- identifiers:
+  - id: 10.5438/0012
+    scheme: DOI
+  - id: 10.5438/0013
+    scheme: DOI
+  issued: '2016-09-19'
+  locations:
+  - type: document
+    url: http://schema.datacite.org/meta/kernel-4.0/doc/DataCite-MetadataKernel_v4.0.pdf
+  - type: XSD
+    url: http://schema.datacite.org/meta/kernel-4.0/metadata.xsd
+  number: '4.0'

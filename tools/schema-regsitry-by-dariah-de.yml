@@ -1,0 +1,14 @@
+description: A tool to create formats and mappings, and to depict ontologies for representation
+  in the digital humanities.
+identifiers:
+- id: msc:t82
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://de.dariah.eu/schema-registry
+relatedEntities:
+- id: msc:g143
+  role: maintainer
+title: Schema-Regsitry by DARIAH-DE
+types:
+- web service

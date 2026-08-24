@@ -1,0 +1,15 @@
+dataTypes:
+- label: OWL
+- label: RDF+XML
+description: Ontology for healthcare metadata - especially metadata found in DICOM
+  files.
+identifiers:
+- id: msc:m129
+  scheme: RDA-MSCWG
+keywords:
+- HMC_Health
+- Health
+locations:
+- type: document
+  url: http://purl.org/healthcarevocab/v1
+title: DICOM ontology

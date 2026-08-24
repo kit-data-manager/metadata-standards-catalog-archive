@@ -1,0 +1,20 @@
+creators:
+- familyName: Berendsohn
+  givenName: Walter
+description: <p>This document describes how to map from the EURISCO Descriptors to
+  ABCD v2.06, and is aimed at data originating in the ECPGR (European Co-operative
+  Programme for Plant Genetic Resources) EURISCO National Inventories.</p>
+identifiers:
+- id: msc:c14
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: http://www.bgbm.org/tdwg/codata/Schema/Mappings/EURISCO-2-ABCD.pdf
+relatedEntities:
+- id: msc:m1
+  role: output scheme
+- id: msc:m85
+  role: input scheme
+versions:
+- issued: '2006-01-31'
+  number: '2006-01-31'

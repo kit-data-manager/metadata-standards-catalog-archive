@@ -1,0 +1,15 @@
+description: A metadata-based portal for language resources. It is completely based
+  on the Component Metadata (CMDI) and ISOcat standards. This approach allows for
+  the use of heterogeneous metadata schemas while maintaining the semantic compatibility.
+identifiers:
+- id: msc:t83
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.clarin.eu/content/virtual-language-observatory-vlo
+relatedEntities:
+- id: msc:g142
+  role: maintainer
+title: Virtual Language Observatory
+types:
+- web service

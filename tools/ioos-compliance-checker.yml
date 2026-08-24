@@ -1,0 +1,19 @@
+description: 'The IOOS Compliance Checker is a python based tool for data providers
+  to check for completeness and community standard compliance of local or remote netCDF
+  files against CF and ACDD file standards. '
+identifiers:
+- id: msc:t70
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://github.com/ioos
+- type: website
+  url: https://ioos.github.io/
+relatedEntities:
+- id: msc:m5
+  role: supported scheme
+- id: msc:m111
+  role: supported scheme
+title: IOOS Compliance Checker
+types:
+- terminal (cross-platform)

@@ -1,0 +1,16 @@
+description: 'Rather than a single metadata format, the Component Metadata Infrastructure
+  provides a framework to create and use self-defined metadata formats. It relies
+  on a modular model of so-called metadata components, which can be assembled together,
+  to improve reuse, interoperability and cooperation among metadata modelers. This
+  format allows its users to define a set of elements with links to the ISOcat data
+  category registry to ensure semantic interoperability. '
+identifiers:
+- id: msc:t80
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.clarin.eu/content/component-metadata
+relatedEntities:
+- id: msc:g142
+  role: maintainer
+title: Component Metadata Infrastructure

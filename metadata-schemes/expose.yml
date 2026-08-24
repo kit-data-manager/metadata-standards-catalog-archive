@@ -1,0 +1,11 @@
+description: Is an ontology to describe machine learning experiments in a standardized
+  fashion and support a collaborative approach to the analysis of learning algorithms.
+identifiers:
+- id: msc:m126
+  scheme: RDA-MSCWG
+keywords:
+- Artificial intelligence
+locations:
+- type: document
+  url: https://www.researchgate.net/profile/Joaquin-Vanschoren/publication/228525536_Expose_An_ontology_for_data_mining_experiments/links/09e4150b7b4e8b5e13000000/Expose-An-ontology-for-data-mining-experiments.pdf?_sg%5B0%5D=Pt7D6FmSJK_188Ldnc9adBAGIHpPdyN0ur2LU_rt63Ebg9k0RqgZ-f6W1QDcMxk5e2dYisP_8-J42VKR3wAatQ.EsKSyASLC470ZYMW4jBbLZZ3zcjCCH8v6rKSEBS0MFWiq25xxnwW_0DgfipVxRK0dnWOVm-iLIfv4fD79Xx8_A&_sg%5B1%5D=6d48-LWAAKrJPn_6HeTgUVsySDrKofMlsiEStFTkmdfobVfM6gv5_oOBkMGFAqBJNAYvhOA6VLACcJ8Mc_BcGH_jZflPfOmfHvmlSa3UV0yG.EsKSyASLC470ZYMW4jBbLZZ3zcjCCH8v6rKSEBS0MFWiq25xxnwW_0DgfipVxRK0dnWOVm-iLIfv4fD79Xx8_A&_iepl=
+title: Exposé

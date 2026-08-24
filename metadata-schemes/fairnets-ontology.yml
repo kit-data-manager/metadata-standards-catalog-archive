@@ -1,0 +1,13 @@
+dataTypes:
+- label: RDF/S
+description: "The FAIRnets Ontology is dedicated to model metadata for neural network\r\
+  \nmodels on a schema level."
+identifiers:
+- id: msc:m116
+  scheme: RDA-MSCWG
+locations:
+- type: RDFS
+  url: http://people.aifb.kit.edu/ns1888/nno/nno.ttl
+- type: document
+  url: https://arxiv.org/pdf/1907.11569.pdf
+title: FAIRnets Ontology

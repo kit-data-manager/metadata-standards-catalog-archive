@@ -1,0 +1,18 @@
+dataTypes:
+- label: JSON
+  url: https://dtr-test.pidconsortium.net/#objects/21.T11148/edff7f2829db22e260a3
+description: Provides a pattern for description of data files, either as single files,
+  or as data sets, also including different data schemas, i.e. tabular data
+identifiers:
+- id: msc:m108
+  scheme: RDA-MSCWG
+keywords:
+- Artificial intelligence
+- Data analysis
+- Data collection
+- Data formats
+- Data processing
+locations:
+- type: website
+  url: https://specs.frictionlessdata.io/#overview
+title: Frictionlessdata

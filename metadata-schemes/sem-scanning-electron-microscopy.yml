@@ -1,0 +1,36 @@
+dataTypes:
+- label: Dataset
+description: "Metadata schema to describe Scanning Electron Microscopy (SEM) measurements.\r\
+  \nThe schema is written according to the XML Schema Definition (XSD). \r\nIt was\
+  \ developed as a coordination effort between the NFFA (Nanoscience Foundries and\
+  \ Fine Analysis) EUROPE Pilot (NEP) and the Joint Lab Integrated Model and Data\
+  \ Driven Materials Characterization\" (MDMC) of the Helmholtz Association."
+identifiers:
+- id: msc:m110
+  scheme: RDA-MSCWG
+keywords:
+- Experiments
+- Materials
+- Nanotechnology
+locations:
+- type: XSD
+  url: https://github.com/kit-data-manager/Metadata-Schemas-for-Materials-Science/blob/main/SEM_Schema.xsd
+relatedEntities:
+- id: msc:g124
+  role: maintainer
+- id: msc:g124
+  role: funder
+- id: msc:g124
+  role: user
+- id: msc:m25
+  role: parent scheme
+samples:
+- title: Example SEM metadata document
+  url: https://github.com/kit-data-manager/Metadata-Schemas-for-Materials-Science/blob/main/SEM_example.xml
+- title: Example SEM minimal metadata document
+  url: https://github.com/kit-data-manager/Metadata-Schemas-for-Materials-Science/blob/main/SEM_example_minimum.xml
+title: SEM (Scanning Electron Microscopy)
+versions:
+- available: '2022-05-20'
+  issued: '2022-05-20'
+  number: '2'

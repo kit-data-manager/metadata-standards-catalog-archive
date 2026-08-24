@@ -1,0 +1,24 @@
+description: "FHIR is a set of standards for the exchange of healthcare information\
+  \ and data. It defines metadata schemas for describing various entities relevant\
+  \ to healthcare – such as patients, procedures, and clinical reasoning – as well\
+  \ as protocols for exchanging data and metadata records between systems. The information\
+  \ may be serialized as XML, JSON, ND-JSON, or RDF/Turtle.\r\n\r\nThe Infrastructure\
+  \ Package was approved as standard ANSI/HL7 FHIR® R4 INFRASTRUCTURE R1-2019."
+identifiers:
+- id: msc:m112
+  scheme: RDA-MSCWG
+keywords:
+- Clinical medicine
+- Health
+locations:
+- type: website
+  url: https://www.hl7.org/fhir/
+- type: XSD
+  url: https://www.hl7.org/fhir/fhir-single.xsd
+relatedEntities:
+- id: msc:g126
+  role: maintainer
+title: FHIR (Fast Healthcare Interoperability Resources)
+versions:
+- issued: '2019-10-30'
+  number: 4.0.1

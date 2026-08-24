@@ -1,0 +1,18 @@
+dataTypes:
+- label: XML
+description: DICOM XML schemas used by the methods of the ORDDicom object type. When
+  Oracle Multimedia DICOM is installed, these schemas are registered as global XML
+  schemas in Oracle Database with Oracle XML DB.
+identifiers:
+- id: msc:m132
+  scheme: RDA-MSCWG
+keywords:
+- Clinical medicine
+- Health
+locations:
+- type: website
+  url: https://docs.oracle.com/cd/E18283_01/appdev.112/e10778/ap_schemas.htm
+relatedEntities:
+- id: msc:g145
+  role: maintainer
+title: DICOM XML Schemas

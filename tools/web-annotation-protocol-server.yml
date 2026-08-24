@@ -1,0 +1,19 @@
+description: This project contains a server for creating and managing annotations
+  based on the Web Annotation Data Model (WADM) implementing the complete Web Annotation
+  Protocol (WAP). The service is realized as microservice using Spring Boot and can
+  be operated standalone.
+identifiers:
+- id: msc:t68
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://github.com/kit-data-manager/wap-server
+relatedEntities:
+- id: msc:g124
+  role: maintainer
+title: Web Annotation Protocol Server
+types:
+- web service
+versions:
+- issued: '2020-09-07'
+  number: 1.0.0

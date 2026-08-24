@@ -1,0 +1,16 @@
+description: <p>This document provides a simple mapping from the SPASE Data Model
+  to the OAI-PMH profile of Dublin Core. The mapping is also available as an XML Stylesheet
+  transformation.</p>
+identifiers:
+- id: msc:c24
+  scheme: RDA-MSCWG
+locations:
+- type: document
+  url: http://www.spase-group.org/tools/stylesheet/oai/
+- type: library (XML)
+  url: http://www.spase-group.org/tools/stylesheet/oai/oai.xsl
+relatedEntities:
+- id: msc:m15
+  role: output scheme
+- id: msc:m39
+  role: input scheme

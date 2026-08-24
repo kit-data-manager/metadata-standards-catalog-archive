@@ -1,0 +1,22 @@
+description: <p>The Open Energy Ontology OEO is being created as a domain ontology
+  within the field of energy system modelling. It is designed to improve transparency
+  and facilitate comparability & transferability within the energy system modelling
+  context.</p>
+identifiers:
+- id: msc:m104
+  scheme: RDA-MSCWG
+keywords:
+- Energy policy
+- HMC_Energy
+- Mathematical models
+- Simulation models
+- Systems design
+locations:
+- type: website
+  url: https://openenergy-platform.org/ontology/
+- type: RDFS
+  url: https://openenergy-platform.org/ontology/oeo/releases/oeo.owl
+title: OEO - Open Energy Ontology
+versions:
+- issued: '2020-06-11'
+  number: '1.0'

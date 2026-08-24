@@ -1,0 +1,17 @@
+description: You may use OSF as a long-term data repository, electronic lab notebook,
+  or as the collaboration tool for your team’s research.
+identifiers:
+- id: msc:t78
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.cos.io/products/osf
+relatedEntities:
+- id: msc:g141
+  role: funder
+title: Open Science Framework (OSF)
+types:
+- web service
+versions:
+- issued: '2019-11-08'
+  number: 19.31.0

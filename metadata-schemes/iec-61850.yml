@@ -1,0 +1,23 @@
+description: <p>Communication networks and systems for power utility automation</p>
+identifiers:
+- id: msc:m101
+  scheme: RDA-MSCWG
+keywords:
+- Automatic control
+- Communication equipment
+- Computer interfaces
+- Computer networks
+- Electrical equipment
+- Energy policy
+- HMC_Energy
+- Industrial management
+locations:
+- type: website
+  url: https://webstore.iec.ch/publication/6028
+relatedEntities:
+- id: msc:g122
+  role: maintainer
+title: IEC 61850
+versions:
+- issued: '2021-03-02'
+  number: '2021'

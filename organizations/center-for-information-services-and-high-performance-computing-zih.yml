@@ -1,0 +1,10 @@
+description: 'The ZIH performs a broad spectrum of research and development work.
+  It is closely linked with national and international scientific institutions and
+  with partners from industry and business. '
+identifiers:
+- id: msc:g137
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://tu-dresden.de/zih?set_language=en
+name: 'Center for Information Services and High Performance Computing (ZIH) '

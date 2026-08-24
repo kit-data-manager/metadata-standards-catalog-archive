@@ -1,0 +1,20 @@
+description: <p>Energy management system application programming interface</p>
+identifiers:
+- id: msc:m102
+  scheme: RDA-MSCWG
+keywords:
+- Computer interfaces
+- Electrical equipment
+- HMC_Energy
+- Industrial management
+- Information management
+locations:
+- type: website
+  url: https://webstore.iec.ch/publication/61167
+relatedEntities:
+- id: msc:g122
+  role: maintainer
+title: IEC 61970
+versions:
+- issued: '2021-03-16'
+  number: '2021'

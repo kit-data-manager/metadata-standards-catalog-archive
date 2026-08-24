@@ -1,0 +1,9 @@
+description: Our mission is to increase openness, integrity, and reproducibility of
+  research.
+identifiers:
+- id: msc:g141
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.cos.io
+name: Center for Open Science (COS)

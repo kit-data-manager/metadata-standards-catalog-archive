@@ -1,0 +1,19 @@
+description: The software of choice for academic, non-profit & commercial organizations
+  building open digital repositories.
+identifiers:
+- id: msc:t74
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://duraspace.org/dspace/
+relatedEntities:
+- id: msc:g134
+  role: maintainer
+- id: msc:m97
+  role: supported scheme
+title: DSpace
+types:
+- web service
+versions:
+- issued: '2022-02-03'
+  number: '7.2'

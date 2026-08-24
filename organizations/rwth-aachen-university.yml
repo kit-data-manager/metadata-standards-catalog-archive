@@ -1,0 +1,9 @@
+identifiers:
+- id: msc:g131
+  scheme: RDA-MSCWG
+locations:
+- type: website
+  url: https://www.rwth-aachen.de/cms/~a/root/
+name: RWTH Aachen University
+types:
+- standards body
